@@ -173,3 +173,15 @@ Received Import Request.
   path: Assets/Scenes/OOPTitleScene.unity
   artifactKey: Guid(4a01c1ed8162c804d84b7db76dbd7e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/OOPTitleScene.unity using Guid(4a01c1ed8162c804d84b7db76dbd7e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb49bfe2bc22bcc617c3bb81bdc1344') in 0.003576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 607.092344 seconds.
+  path: Assets/Scripts/TitleUIManager.cs
+  artifactKey: Guid(e6ada34a6ecc92b4ab7da16002d4174d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TitleUIManager.cs using Guid(e6ada34a6ecc92b4ab7da16002d4174d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a31dfd6539ee90128f1dd30d9e00122') in 0.015933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.503753 seconds.
+  path: Assets/Scenes/OOPTitleScene.unity
+  artifactKey: Guid(4a01c1ed8162c804d84b7db76dbd7e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OOPTitleScene.unity using Guid(4a01c1ed8162c804d84b7db76dbd7e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4741763996cbeedd5ddfebc63af876ae') in 0.002642 seconds 
